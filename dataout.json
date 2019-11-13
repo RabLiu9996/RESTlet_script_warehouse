@@ -1,0 +1,2092 @@
+[
+  {
+    "id": "120",
+    "recordtype": "account",
+    "columns": {
+      "balance": 0,
+      "cashflowratetype": {
+        "name": "Average",
+        "internalid": "AVERAGE"
+      },
+      "externalid": {
+        "name": "1200",
+        "internalid": "1200"
+      },
+      "generalratetype": {
+        "name": "Current",
+        "internalid": "CURRENT"
+      },
+      "internalid": {
+        "name": "120",
+        "internalid": "120"
+      },
+      "isinactive": true,
+      "name": "1200Accounts Receivable",
+      "number": "1200",
+      "subsidiary": {
+        "name": "1101 InseegoCorp",
+        "internalid": "1"
+      },
+      "subsidiarynohierarchy": {
+        "name": "1101 Inseego Corp",
+        "internalid": "1"
+      },
+      "type": {
+        "name": "AccountsReceivable",
+        "internalid": "AcctRec"
+      }
+    }
+  },
+  {
+    "id": "120",
+    "recordtype": "account",
+    "columns": {
+      "balance": 0,
+      "cashflowratetype": {
+        "name": "Average",
+        "internalid": "AVERAGE"
+      },
+      "externalid": {
+        "name": "1200",
+        "internalid": "1200"
+      },
+      "generalratetype": {
+        "name": "Current",
+        "internalid": "CURRENT"
+      },
+      "internalid": {
+        "name": "120",
+        "internalid": "120"
+      },
+      "isinactive": true,
+      "name": "1200Accounts Receivable",
+      "number": "1200",
+      "subsidiary": {
+        "name": "1101 Inseego Corp : 1180 ELIM InseegoCorp.",
+        "internalid": "54"
+      },
+      "subsidiarynohierarchy": {
+        "name": "1180 ELIM InseegoCorp.",
+        "internalid": "54"
+      },
+      "type": {
+        "name": "AccountsReceivable",
+        "internalid": "AcctRec"
+      }
+    }
+  },
+  {
+    "id": "120",
+    "recordtype": "account",
+    "columns": {
+      "balance": 0,
+      "cashflowratetype": {
+        "name": "Average",
+        "internalid": "AVERAGE"
+      },
+      "externalid": {
+        "name": "1200",
+        "internalid": "1200"
+      },
+      "generalratetype": {
+        "name": "Current",
+        "internalid": "CURRENT"
+      },
+      "internalid": {
+        "name": "120",
+        "internalid": "120"
+      },
+      "isinactive": true,
+      "name": "1200Accounts Receivable",
+      "number": "1200",
+      "subsidiary": {
+        "name": "1101 Inseego Corp : 2101 Novatel Wireless, Inc. : 2102Novatel Wireless Solutions, Inc.",
+        "internalid": "4"
+      },
+      "subsidiarynohierarchy": {
+        "name": "2102 Novatel Wireless Solutions,Inc.",
+        "internalid": "4"
+      },
+      "type": {
+        "name": "AccountsReceivable",
+        "internalid": "AcctRec"
+      }
+    }
+  },
+  {
+    "id": "120",
+    "recordtype": "account",
+    "columns": {
+      "balance": 0,
+      "cashflowratetype": {
+        "name": "Average",
+        "internalid": "AVERAGE"
+      },
+      "externalid": {
+        "name": "1200",
+        "internalid": "1200"
+      },
+      "generalratetype": {
+        "name": "Current",
+        "internalid": "CURRENT"
+      },
+      "internalid": {
+        "name": "120",
+        "internalid": "120"
+      },
+      "isinactive": true,
+      "name": "1200Accounts Receivable",
+      "number": "1200",
+      "subsidiary": {
+        "name": "1101 Inseego Corp : 2101 Novatel Wireless, Inc. : 2102Novatel Wireless Solutions, Inc. : 2302 Novatel Wireless Asia Ltd (HongKong)",
+        "internalid": "48"
+      },
+      "subsidiarynohierarchy": {
+        "name": "2302 Novatel Wireless Asia Ltd (HongKong)",
+        "internalid": "48"
+      },
+      "type": {
+        "name": "AccountsReceivable",
+        "internalid": "AcctRec"
+      }
+    }
+  },
+  {
+    "id": "120",
+    "recordtype": "account",
+    "columns": {
+      "balance": 0,
+      "cashflowratetype": {
+        "name": "Average",
+        "internalid": "AVERAGE"
+      },
+      "externalid": {
+        "name": "1200",
+        "internalid": "1200"
+      },
+      "generalratetype": {
+        "name": "Current",
+        "internalid": "CURRENT"
+      },
+      "internalid": {
+        "name": "120",
+        "internalid": "120"
+      },
+      "isinactive": true,
+      "name": "1200Accounts Receivable",
+      "number": "1200",
+      "subsidiary": {
+        "name": "1101 Inseego Corp : 2101 Novatel Wireless, Inc. : 2102Novatel Wireless Solutions, Inc. : 2302 Novatel Wireless Asia Ltd (Hong Kong) : 2301 Novatel Wireless (Shanghai) Co.Ltd.",
+        "internalid": "47"
+      },
+      "subsidiarynohierarchy": {
+        "name": "2301 Novatel Wireless (Shanghai) Co.Ltd.",
+        "internalid": "47"
+      },
+      "type": {
+        "name": "AccountsReceivable",
+        "internalid": "AcctRec"
+      }
+    }
+  },
+  {
+    "id": "120",
+    "recordtype": "account",
+    "columns": {
+      "balance": 0,
+      "cashflowratetype": {
+        "name": "Average",
+        "internalid": "AVERAGE"
+      },
+      "externalid": {
+        "name": "1200",
+        "internalid": "1200"
+      },
+      "generalratetype": {
+        "name": "Current",
+        "internalid": "CURRENT"
+      },
+      "internalid": {
+        "name": "120",
+        "internalid": "120"
+      },
+      "isinactive": true,
+      "name": "1200Accounts Receivable",
+      "number": "1200",
+      "subsidiary": {
+        "name": "1101 Inseego Corp : 2101 Novatel Wireless, Inc. : 2102Novatel Wireless Solutions, Inc. : 2401 Novatel Wireless Australia PtyLtd",
+        "internalid": "50"
+      },
+      "subsidiarynohierarchy": {
+        "name": "2401 Novatel Wireless Australia PtyLtd",
+        "internalid": "50"
+      },
+      "type": {
+        "name": "AccountsReceivable",
+        "internalid": "AcctRec"
+      }
+    }
+  },
+  {
+    "id": "120",
+    "recordtype": "account",
+    "columns": {
+      "balance": 0,
+      "cashflowratetype": {
+        "name": "Average",
+        "internalid": "AVERAGE"
+      },
+      "externalid": {
+        "name": "1200",
+        "internalid": "1200"
+      },
+      "generalratetype": {
+        "name": "Current",
+        "internalid": "CURRENT"
+      },
+      "internalid": {
+        "name": "120",
+        "internalid": "120"
+      },
+      "isinactive": true,
+      "name": "1200Accounts Receivable",
+      "number": "1200",
+      "subsidiary": {
+        "name": "1101 Inseego Corp : 2101 Novatel Wireless, Inc. : 2102Novatel Wireless Solutions, Inc. : 2502 Novatel Wireless (Italy)S.r.l.",
+        "internalid": "51"
+      },
+      "subsidiarynohierarchy": {
+        "name": "2502 Novatel Wireless (Italy)S.r.l.",
+        "internalid": "51"
+      },
+      "type": {
+        "name": "AccountsReceivable",
+        "internalid": "AcctRec"
+      }
+    }
+  },
+  {
+    "id": "120",
+    "recordtype": "account",
+    "columns": {
+      "balance": 0,
+      "cashflowratetype": {
+        "name": "Average",
+        "internalid": "AVERAGE"
+      },
+      "externalid": {
+        "name": "1200",
+        "internalid": "1200"
+      },
+      "generalratetype": {
+        "name": "Current",
+        "internalid": "CURRENT"
+      },
+      "internalid": {
+        "name": "120",
+        "internalid": "120"
+      },
+      "isinactive": true,
+      "name": "1200Accounts Receivable",
+      "number": "1200",
+      "subsidiary": {
+        "name": "1101 Inseego Corp : 2101 Novatel Wireless, Inc. : 2102Novatel Wireless Solutions, Inc. : 2501 Inseego (UK) Ltd",
+        "internalid": "52"
+      },
+      "subsidiarynohierarchy": {
+        "name": "2501Inseego (UK) Ltd",
+        "internalid": "52"
+      },
+      "type": {
+        "name": "AccountsReceivable",
+        "internalid": "AcctRec"
+      }
+    }
+  },
+  {
+    "id": "120",
+    "recordtype": "account",
+    "columns": {
+      "balance": 0,
+      "cashflowratetype": {
+        "name": "Average",
+        "internalid": "AVERAGE"
+      },
+      "externalid": {
+        "name": "1200",
+        "internalid": "1200"
+      },
+      "generalratetype": {
+        "name": "Current",
+        "internalid": "CURRENT"
+      },
+      "internalid": {
+        "name": "120",
+        "internalid": "120"
+      },
+      "isinactive": true,
+      "name": "1200Accounts Receivable",
+      "number": "1200",
+      "subsidiary": {
+        "name": "1101 Inseego Corp : 2101 Novatel Wireless, Inc. : 2102Novatel Wireless Solutions, Inc. : 2181 ELIM Novatel WirelessSolutions",
+        "internalid": "55"
+      },
+      "subsidiarynohierarchy": {
+        "name": "2181 ELIM Novatel WirelessSolutions",
+        "internalid": "55"
+      },
+      "type": {
+        "name": "AccountsReceivable",
+        "internalid": "AcctRec"
+      }
+    }
+  },
+  {
+    "id": "120",
+    "recordtype": "account",
+    "columns": {
+      "balance": 0,
+      "cashflowratetype": {
+        "name": "Average",
+        "internalid": "AVERAGE"
+      },
+      "externalid": {
+        "name": "1200",
+        "internalid": "1200"
+      },
+      "generalratetype": {
+        "name": "Current",
+        "internalid": "CURRENT"
+      },
+      "internalid": {
+        "name": "120",
+        "internalid": "120"
+      },
+      "isinactive": true,
+      "name": "1200Accounts Receivable",
+      "number": "1200",
+      "subsidiary": {
+        "name": "1101 Inseego Corp : 2101 Novatel Wireless, Inc. : 2102Novatel Wireless Solutions, Inc. : Dormant Novatel Entities",
+        "internalid": "65"
+      },
+      "subsidiarynohierarchy": {
+        "name": "DormantNovatel Entities",
+        "internalid": "65"
+      },
+      "type": {
+        "name": "AccountsReceivable",
+        "internalid": "AcctRec"
+      }
+    }
+  },
+  {
+    "id": "120",
+    "recordtype": "account",
+    "columns": {
+      "balance": 0,
+      "cashflowratetype": {
+        "name": "Average",
+        "internalid": "AVERAGE"
+      },
+      "externalid": {
+        "name": "1200",
+        "internalid": "1200"
+      },
+      "generalratetype": {
+        "name": "Current",
+        "internalid": "CURRENT"
+      },
+      "internalid": {
+        "name": "120",
+        "internalid": "120"
+      },
+      "isinactive": true,
+      "name": "1200Accounts Receivable",
+      "number": "1200",
+      "subsidiary": {
+        "name": "1101 Inseego Corp : 2101 Novatel Wireless, Inc. : 2180 ELIMNovatel Wireless",
+        "internalid": "11"
+      },
+      "subsidiarynohierarchy": {
+        "name": "2180 ELIM NovatelWireless",
+        "internalid": "11"
+      },
+      "type": {
+        "name": "AccountsReceivable",
+        "internalid": "AcctRec"
+      }
+    }
+  },
+  {
+    "id": "120",
+    "recordtype": "account",
+    "columns": {
+      "balance": 0,
+      "cashflowratetype": {
+        "name": "Average",
+        "internalid": "AVERAGE"
+      },
+      "externalid": {
+        "name": "1200",
+        "internalid": "1200"
+      },
+      "generalratetype": {
+        "name": "Current",
+        "internalid": "CURRENT"
+      },
+      "internalid": {
+        "name": "120",
+        "internalid": "120"
+      },
+      "isinactive": true,
+      "name": "1200Accounts Receivable",
+      "number": "1200",
+      "subsidiary": {
+        "name": "1101 Inseego Corp : 2101 Novatel Wireless, Inc. : 3101Enfora, Inc.",
+        "internalid": "12"
+      },
+      "subsidiarynohierarchy": {
+        "name": "3101 Enfora,Inc.",
+        "internalid": "12"
+      },
+      "type": {
+        "name": "AccountsReceivable",
+        "internalid": "AcctRec"
+      }
+    }
+  },
+  {
+    "id": "120",
+    "recordtype": "account",
+    "columns": {
+      "balance": 0,
+      "cashflowratetype": {
+        "name": "Average",
+        "internalid": "AVERAGE"
+      },
+      "externalid": {
+        "name": "1200",
+        "internalid": "1200"
+      },
+      "generalratetype": {
+        "name": "Current",
+        "internalid": "CURRENT"
+      },
+      "internalid": {
+        "name": "120",
+        "internalid": "120"
+      },
+      "isinactive": true,
+      "name": "1200Accounts Receivable",
+      "number": "1200",
+      "subsidiary": {
+        "name": "1101 Inseego Corp : 2101 Novatel Wireless, Inc. : 2201Novatel Wireless Technologies, Ltd.",
+        "internalid": "46"
+      },
+      "subsidiarynohierarchy": {
+        "name": "2201Novatel Wireless Technologies, Ltd.",
+        "internalid": "46"
+      },
+      "type": {
+        "name": "AccountsReceivable",
+        "internalid": "AcctRec"
+      }
+    }
+  },
+  {
+    "id": "120",
+    "recordtype": "account",
+    "columns": {
+      "balance": 0,
+      "cashflowratetype": {
+        "name": "Average",
+        "internalid": "AVERAGE"
+      },
+      "externalid": {
+        "name": "1200",
+        "internalid": "1200"
+      },
+      "generalratetype": {
+        "name": "Current",
+        "internalid": "CURRENT"
+      },
+      "internalid": {
+        "name": "120",
+        "internalid": "120"
+      },
+      "isinactive": true,
+      "name": "1200Accounts Receivable",
+      "number": "1200",
+      "subsidiary": {
+        "name": "1101 Inseego Corp : 2101 Novatel Wireless, Inc. : 1357Deadwin test",
+        "internalid": "63"
+      },
+      "subsidiarynohierarchy": {
+        "name": "1357 Deadwintest",
+        "internalid": "63"
+      },
+      "type": {
+        "name": "AccountsReceivable",
+        "internalid": "AcctRec"
+      }
+    }
+  },
+  {
+    "id": "120",
+    "recordtype": "account",
+    "columns": {
+      "balance": 0,
+      "cashflowratetype": {
+        "name": "Average",
+        "internalid": "AVERAGE"
+      },
+      "externalid": {
+        "name": "1200",
+        "internalid": "1200"
+      },
+      "generalratetype": {
+        "name": "Current",
+        "internalid": "CURRENT"
+      },
+      "internalid": {
+        "name": "120",
+        "internalid": "120"
+      },
+      "isinactive": true,
+      "name": "1200Accounts Receivable",
+      "number": "1200",
+      "subsidiary": {
+        "name": "1101 Inseego Corp : 4101 Inseego North America,LLC",
+        "internalid": "13"
+      },
+      "subsidiarynohierarchy": {
+        "name": "4101 Inseego North America,LLC",
+        "internalid": "13"
+      },
+      "type": {
+        "name": "AccountsReceivable",
+        "internalid": "AcctRec"
+      }
+    }
+  },
+  {
+    "id": "120",
+    "recordtype": "account",
+    "columns": {
+      "balance": 0,
+      "cashflowratetype": {
+        "name": "Average",
+        "internalid": "AVERAGE"
+      },
+      "externalid": {
+        "name": "1200",
+        "internalid": "1200"
+      },
+      "generalratetype": {
+        "name": "Current",
+        "internalid": "CURRENT"
+      },
+      "internalid": {
+        "name": "120",
+        "internalid": "120"
+      },
+      "isinactive": true,
+      "name": "1200Accounts Receivable",
+      "number": "1200",
+      "subsidiary": {
+        "name": "1101 Inseego Corp : 5601 Ctrack Holdings (Pty) Ltd - USGAAP",
+        "internalid": "14"
+      },
+      "subsidiarynohierarchy": {
+        "name": "5601 Ctrack Holdings (Pty) Ltd - USGAAP",
+        "internalid": "14"
+      },
+      "type": {
+        "name": "AccountsReceivable",
+        "internalid": "AcctRec"
+      }
+    }
+  },
+  {
+    "id": "120",
+    "recordtype": "account",
+    "columns": {
+      "balance": 0,
+      "cashflowratetype": {
+        "name": "Average",
+        "internalid": "AVERAGE"
+      },
+      "externalid": {
+        "name": "1200",
+        "internalid": "1200"
+      },
+      "generalratetype": {
+        "name": "Current",
+        "internalid": "CURRENT"
+      },
+      "internalid": {
+        "name": "120",
+        "internalid": "120"
+      },
+      "isinactive": true,
+      "name": "1200Accounts Receivable",
+      "number": "1200",
+      "subsidiary": {
+        "name": "1101 Inseego Corp : 5601 Ctrack Holdings (Pty) Ltd - US GAAP: 5602 Ctrack Holdings (Pty) Ltd - IFRS",
+        "internalid": "31"
+      },
+      "subsidiarynohierarchy": {
+        "name": "5602 Ctrack Holdings (Pty)Ltd - IFRS",
+        "internalid": "31"
+      },
+      "type": {
+        "name": "AccountsReceivable",
+        "internalid": "AcctRec"
+      }
+    }
+  },
+  {
+    "id": "120",
+    "recordtype": "account",
+    "columns": {
+      "balance": 0,
+      "cashflowratetype": {
+        "name": "Average",
+        "internalid": "AVERAGE"
+      },
+      "externalid": {
+        "name": "1200",
+        "internalid": "1200"
+      },
+      "generalratetype": {
+        "name": "Current",
+        "internalid": "CURRENT"
+      },
+      "internalid": {
+        "name": "120",
+        "internalid": "120"
+      },
+      "isinactive": true,
+      "name": "1200Accounts Receivable",
+      "number": "1200",
+      "subsidiary": {
+        "name": "1101 Inseego Corp : 5601 Ctrack Holdings (Pty) Ltd - US GAAP: 5602 Ctrack Holdings (Pty) Ltd - IFRS : 5603 Ctrack Holdings (Pty)Ltd",
+        "internalid": "32"
+      },
+      "subsidiarynohierarchy": {
+        "name": "5603 Ctrack Holdings (Pty)Ltd",
+        "internalid": "32"
+      },
+      "type": {
+        "name": "AccountsReceivable",
+        "internalid": "AcctRec"
+      }
+    }
+  },
+  {
+    "id": "120",
+    "recordtype": "account",
+    "columns": {
+      "balance": 0,
+      "cashflowratetype": {
+        "name": "Average",
+        "internalid": "AVERAGE"
+      },
+      "externalid": {
+        "name": "1200",
+        "internalid": "1200"
+      },
+      "generalratetype": {
+        "name": "Current",
+        "internalid": "CURRENT"
+      },
+      "internalid": {
+        "name": "120",
+        "internalid": "120"
+      },
+      "isinactive": true,
+      "name": "1200Accounts Receivable",
+      "number": "1200",
+      "subsidiary": {
+        "name": "1101 Inseego Corp : 5601 Ctrack Holdings (Pty) Ltd - US GAAP: 5602 Ctrack Holdings (Pty) Ltd - IFRS : 5603 Ctrack Holdings (Pty) Ltd : 5501 Ctrack International HoldingsLtd",
+        "internalid": "15"
+      },
+      "subsidiarynohierarchy": {
+        "name": "5501 Ctrack International HoldingsLtd",
+        "internalid": "15"
+      },
+      "type": {
+        "name": "AccountsReceivable",
+        "internalid": "AcctRec"
+      }
+    }
+  },
+  {
+    "id": "120",
+    "recordtype": "account",
+    "columns": {
+      "balance": 0,
+      "cashflowratetype": {
+        "name": "Average",
+        "internalid": "AVERAGE"
+      },
+      "externalid": {
+        "name": "1200",
+        "internalid": "1200"
+      },
+      "generalratetype": {
+        "name": "Current",
+        "internalid": "CURRENT"
+      },
+      "internalid": {
+        "name": "120",
+        "internalid": "120"
+      },
+      "isinactive": true,
+      "name": "1200Accounts Receivable",
+      "number": "1200",
+      "subsidiary": {
+        "name": "1101 Inseego Corp : 5601 Ctrack Holdings (Pty) Ltd - US GAAP: 5602 Ctrack Holdings (Pty) Ltd - IFRS : 5603 Ctrack Holdings (Pty) Ltd : 5501 Ctrack International Holdings Ltd : 5503Ctrack Europe Holdings Limited",
+        "internalid": "16"
+      },
+      "subsidiarynohierarchy": {
+        "name": "5503 Ctrack Europe HoldingsLimited",
+        "internalid": "16"
+      },
+      "type": {
+        "name": "AccountsReceivable",
+        "internalid": "AcctRec"
+      }
+    }
+  },
+  {
+    "id": "120",
+    "recordtype": "account",
+    "columns": {
+      "balance": 0,
+      "cashflowratetype": {
+        "name": "Average",
+        "internalid": "AVERAGE"
+      },
+      "externalid": {
+        "name": "1200",
+        "internalid": "1200"
+      },
+      "generalratetype": {
+        "name": "Current",
+        "internalid": "CURRENT"
+      },
+      "internalid": {
+        "name": "120",
+        "internalid": "120"
+      },
+      "isinactive": true,
+      "name": "1200Accounts Receivable",
+      "number": "1200",
+      "subsidiary": {
+        "name": "1101 Inseego Corp : 5601 Ctrack Holdings (Pty) Ltd - US GAAP: 5602 Ctrack Holdings (Pty) Ltd - IFRS : 5603 Ctrack Holdings (Pty) Ltd : 5501 Ctrack International Holdings Ltd : 5503Ctrack Europe Holdings Limited : 5506 Ctrack Ltd",
+        "internalid": "18"
+      },
+      "subsidiarynohierarchy": {
+        "name": "5506 CtrackLtd",
+        "internalid": "18"
+      },
+      "type": {
+        "name": "AccountsReceivable",
+        "internalid": "AcctRec"
+      }
+    }
+  },
+  {
+    "id": "120",
+    "recordtype": "account",
+    "columns": {
+      "balance": 0,
+      "cashflowratetype": {
+        "name": "Average",
+        "internalid": "AVERAGE"
+      },
+      "externalid": {
+        "name": "1200",
+        "internalid": "1200"
+      },
+      "generalratetype": {
+        "name": "Current",
+        "internalid": "CURRENT"
+      },
+      "internalid": {
+        "name": "120",
+        "internalid": "120"
+      },
+      "isinactive": true,
+      "name": "1200Accounts Receivable",
+      "number": "1200",
+      "subsidiary": {
+        "name": "1101 Inseego Corp : 5601 Ctrack Holdings (Pty) Ltd - US GAAP: 5602 Ctrack Holdings (Pty) Ltd - IFRS : 5603 Ctrack Holdings (Pty) Ltd : 5501 Ctrack International Holdings Ltd : 5503Ctrack Europe Holdings Limited : 5505 Ctrack UK Ltd",
+        "internalid": "19"
+      },
+      "subsidiarynohierarchy": {
+        "name": "5505 Ctrack UKLtd",
+        "internalid": "19"
+      },
+      "type": {
+        "name": "AccountsReceivable",
+        "internalid": "AcctRec"
+      }
+    }
+  },
+  {
+    "id": "120",
+    "recordtype": "account",
+    "columns": {
+      "balance": 0,
+      "cashflowratetype": {
+        "name": "Average",
+        "internalid": "AVERAGE"
+      },
+      "externalid": {
+        "name": "1200",
+        "internalid": "1200"
+      },
+      "generalratetype": {
+        "name": "Current",
+        "internalid": "CURRENT"
+      },
+      "internalid": {
+        "name": "120",
+        "internalid": "120"
+      },
+      "isinactive": true,
+      "name": "1200Accounts Receivable",
+      "number": "1200",
+      "subsidiary": {
+        "name": "1101 Inseego Corp : 5601 Ctrack Holdings (Pty) Ltd - US GAAP: 5602 Ctrack Holdings (Pty) Ltd - IFRS : 5603 Ctrack Holdings (Pty) Ltd : 5501 Ctrack International Holdings Ltd : 5503Ctrack Europe Holdings Limited : 5504 Ctrack E. Eur. HoldingsLimited",
+        "internalid": "20"
+      },
+      "subsidiarynohierarchy": {
+        "name": "5504 Ctrack E. Eur. HoldingsLimited",
+        "internalid": "20"
+      },
+      "type": {
+        "name": "AccountsReceivable",
+        "internalid": "AcctRec"
+      }
+    }
+  },
+  {
+    "id": "120",
+    "recordtype": "account",
+    "columns": {
+      "balance": 0,
+      "cashflowratetype": {
+        "name": "Average",
+        "internalid": "AVERAGE"
+      },
+      "externalid": {
+        "name": "1200",
+        "internalid": "1200"
+      },
+      "generalratetype": {
+        "name": "Current",
+        "internalid": "CURRENT"
+      },
+      "internalid": {
+        "name": "120",
+        "internalid": "120"
+      },
+      "isinactive": true,
+      "name": "1200Accounts Receivable",
+      "number": "1200",
+      "subsidiary": {
+        "name": "1101 Inseego Corp : 5601 Ctrack Holdings (Pty) Ltd - US GAAP: 5602 Ctrack Holdings (Pty) Ltd - IFRS : 5603 Ctrack Holdings (Pty) Ltd : 5501 Ctrack International Holdings Ltd : 5503Ctrack Europe Holdings Limited : 5508 DigiCore Europe BV",
+        "internalid": "21"
+      },
+      "subsidiarynohierarchy": {
+        "name": "5508DigiCore Europe BV",
+        "internalid": "21"
+      },
+      "type": {
+        "name": "AccountsReceivable",
+        "internalid": "AcctRec"
+      }
+    }
+  },
+  {
+    "id": "120",
+    "recordtype": "account",
+    "columns": {
+      "balance": 0,
+      "cashflowratetype": {
+        "name": "Average",
+        "internalid": "AVERAGE"
+      },
+      "externalid": {
+        "name": "1200",
+        "internalid": "1200"
+      },
+      "generalratetype": {
+        "name": "Current",
+        "internalid": "CURRENT"
+      },
+      "internalid": {
+        "name": "120",
+        "internalid": "120"
+      },
+      "isinactive": true,
+      "name": "1200Accounts Receivable",
+      "number": "1200",
+      "subsidiary": {
+        "name": "1101 Inseego Corp : 5601 Ctrack Holdings (Pty) Ltd - US GAAP: 5602 Ctrack Holdings (Pty) Ltd - IFRS : 5603 Ctrack Holdings (Pty) Ltd : 5501 Ctrack International Holdings Ltd : 5503Ctrack Europe Holdings Limited : 5508 DigiCore Europe BV : 5512 Ctrack BeneluxBV",
+        "internalid": "22"
+      },
+      "subsidiarynohierarchy": {
+        "name": "5512 Ctrack BeneluxBV",
+        "internalid": "22"
+      },
+      "type": {
+        "name": "AccountsReceivable",
+        "internalid": "AcctRec"
+      }
+    }
+  },
+  {
+    "id": "120",
+    "recordtype": "account",
+    "columns": {
+      "balance": 0,
+      "cashflowratetype": {
+        "name": "Average",
+        "internalid": "AVERAGE"
+      },
+      "externalid": {
+        "name": "1200",
+        "internalid": "1200"
+      },
+      "generalratetype": {
+        "name": "Current",
+        "internalid": "CURRENT"
+      },
+      "internalid": {
+        "name": "120",
+        "internalid": "120"
+      },
+      "isinactive": true,
+      "name": "1200Accounts Receivable",
+      "number": "1200",
+      "subsidiary": {
+        "name": "1101 Inseego Corp : 5601 Ctrack Holdings (Pty) Ltd - US GAAP: 5602 Ctrack Holdings (Pty) Ltd - IFRS : 5603 Ctrack Holdings (Pty) Ltd : 5501 Ctrack International Holdings Ltd : 5503Ctrack Europe Holdings Limited : 5508 DigiCore Europe BV : 5511 Ctrack DeutschlandGmbH",
+        "internalid": "23"
+      },
+      "subsidiarynohierarchy": {
+        "name": "5511 Ctrack DeutschlandGmbH",
+        "internalid": "23"
+      },
+      "type": {
+        "name": "AccountsReceivable",
+        "internalid": "AcctRec"
+      }
+    }
+  },
+  {
+    "id": "120",
+    "recordtype": "account",
+    "columns": {
+      "balance": 0,
+      "cashflowratetype": {
+        "name": "Average",
+        "internalid": "AVERAGE"
+      },
+      "externalid": {
+        "name": "1200",
+        "internalid": "1200"
+      },
+      "generalratetype": {
+        "name": "Current",
+        "internalid": "CURRENT"
+      },
+      "internalid": {
+        "name": "120",
+        "internalid": "120"
+      },
+      "isinactive": true,
+      "name": "1200Accounts Receivable",
+      "number": "1200",
+      "subsidiary": {
+        "name": "1101 Inseego Corp : 5601 Ctrack Holdings (Pty) Ltd - US GAAP: 5602 Ctrack Holdings (Pty) Ltd - IFRS : 5603 Ctrack Holdings (Pty) Ltd : 5501 Ctrack International Holdings Ltd : 5503Ctrack Europe Holdings Limited : 5508 DigiCore Europe BV : 5510 Ctrack FranceSARL",
+        "internalid": "24"
+      },
+      "subsidiarynohierarchy": {
+        "name": "5510 Ctrack FranceSARL",
+        "internalid": "24"
+      },
+      "type": {
+        "name": "AccountsReceivable",
+        "internalid": "AcctRec"
+      }
+    }
+  },
+  {
+    "id": "120",
+    "recordtype": "account",
+    "columns": {
+      "balance": 0,
+      "cashflowratetype": {
+        "name": "Average",
+        "internalid": "AVERAGE"
+      },
+      "externalid": {
+        "name": "1200",
+        "internalid": "1200"
+      },
+      "generalratetype": {
+        "name": "Current",
+        "internalid": "CURRENT"
+      },
+      "internalid": {
+        "name": "120",
+        "internalid": "120"
+      },
+      "isinactive": true,
+      "name": "1200Accounts Receivable",
+      "number": "1200",
+      "subsidiary": {
+        "name": "1101 Inseego Corp : 5601 Ctrack Holdings (Pty) Ltd - US GAAP: 5602 Ctrack Holdings (Pty) Ltd - IFRS : 5603 Ctrack Holdings (Pty) Ltd : 5501 Ctrack International Holdings Ltd : 5503Ctrack Europe Holdings Limited : 5508 DigiCore Europe BV : 5509 Ctrack BelgiumBVBA",
+        "internalid": "25"
+      },
+      "subsidiarynohierarchy": {
+        "name": "5509 Ctrack BelgiumBVBA",
+        "internalid": "25"
+      },
+      "type": {
+        "name": "AccountsReceivable",
+        "internalid": "AcctRec"
+      }
+    }
+  },
+  {
+    "id": "120",
+    "recordtype": "account",
+    "columns": {
+      "balance": 0,
+      "cashflowratetype": {
+        "name": "Average",
+        "internalid": "AVERAGE"
+      },
+      "externalid": {
+        "name": "1200",
+        "internalid": "1200"
+      },
+      "generalratetype": {
+        "name": "Current",
+        "internalid": "CURRENT"
+      },
+      "internalid": {
+        "name": "120",
+        "internalid": "120"
+      },
+      "isinactive": true,
+      "name": "1200Accounts Receivable",
+      "number": "1200",
+      "subsidiary": {
+        "name": "1101 Inseego Corp : 5601 Ctrack Holdings (Pty) Ltd - US GAAP: 5602 Ctrack Holdings (Pty) Ltd - IFRS : 5603 Ctrack Holdings (Pty) Ltd : 5501 Ctrack International Holdings Ltd : 5503Ctrack Europe Holdings Limited : 5508 DigiCore Europe BV : 5581 ELIM DigiCore EuropeBV",
+        "internalid": "61"
+      },
+      "subsidiarynohierarchy": {
+        "name": "5581 ELIM DigiCore EuropeBV",
+        "internalid": "61"
+      },
+      "type": {
+        "name": "AccountsReceivable",
+        "internalid": "AcctRec"
+      }
+    }
+  },
+  {
+    "id": "120",
+    "recordtype": "account",
+    "columns": {
+      "balance": 0,
+      "cashflowratetype": {
+        "name": "Average",
+        "internalid": "AVERAGE"
+      },
+      "externalid": {
+        "name": "1200",
+        "internalid": "1200"
+      },
+      "generalratetype": {
+        "name": "Current",
+        "internalid": "CURRENT"
+      },
+      "internalid": {
+        "name": "120",
+        "internalid": "120"
+      },
+      "isinactive": true,
+      "name": "1200Accounts Receivable",
+      "number": "1200",
+      "subsidiary": {
+        "name": "1101 Inseego Corp : 5601 Ctrack Holdings (Pty) Ltd - US GAAP: 5602 Ctrack Holdings (Pty) Ltd - IFRS : 5603 Ctrack Holdings (Pty) Ltd : 5501 Ctrack International Holdings Ltd : 5503Ctrack Europe Holdings Limited : 5507 Ctrack Ireland Ltd",
+        "internalid": "53"
+      },
+      "subsidiarynohierarchy": {
+        "name": "5507Ctrack Ireland Ltd",
+        "internalid": "53"
+      },
+      "type": {
+        "name": "AccountsReceivable",
+        "internalid": "AcctRec"
+      }
+    }
+  },
+  {
+    "id": "120",
+    "recordtype": "account",
+    "columns": {
+      "balance": 0,
+      "cashflowratetype": {
+        "name": "Average",
+        "internalid": "AVERAGE"
+      },
+      "externalid": {
+        "name": "1200",
+        "internalid": "1200"
+      },
+      "generalratetype": {
+        "name": "Current",
+        "internalid": "CURRENT"
+      },
+      "internalid": {
+        "name": "120",
+        "internalid": "120"
+      },
+      "isinactive": true,
+      "name": "1200Accounts Receivable",
+      "number": "1200",
+      "subsidiary": {
+        "name": "1101 Inseego Corp : 5601 Ctrack Holdings (Pty) Ltd - US GAAP: 5602 Ctrack Holdings (Pty) Ltd - IFRS : 5603 Ctrack Holdings (Pty) Ltd : 5501 Ctrack International Holdings Ltd : 5503Ctrack Europe Holdings Limited : 5580 ELIM Ctrack Europe HoldingsLtd",
+        "internalid": "60"
+      },
+      "subsidiarynohierarchy": {
+        "name": "5580 ELIM Ctrack Europe HoldingsLtd",
+        "internalid": "60"
+      },
+      "type": {
+        "name": "AccountsReceivable",
+        "internalid": "AcctRec"
+      }
+    }
+  },
+  {
+    "id": "120",
+    "recordtype": "account",
+    "columns": {
+      "balance": 0,
+      "cashflowratetype": {
+        "name": "Average",
+        "internalid": "AVERAGE"
+      },
+      "externalid": {
+        "name": "1200",
+        "internalid": "1200"
+      },
+      "generalratetype": {
+        "name": "Current",
+        "internalid": "CURRENT"
+      },
+      "internalid": {
+        "name": "120",
+        "internalid": "120"
+      },
+      "isinactive": true,
+      "name": "1200Accounts Receivable",
+      "number": "1200",
+      "subsidiary": {
+        "name": "1101 Inseego Corp : 5601 Ctrack Holdings (Pty) Ltd - US GAAP: 5602 Ctrack Holdings (Pty) Ltd - IFRS : 5603 Ctrack Holdings (Pty) Ltd : 5501 Ctrack International Holdings Ltd : 5502DigiCore International Holdings BV",
+        "internalid": "26"
+      },
+      "subsidiarynohierarchy": {
+        "name": "5502 DigiCore InternationalHoldings BV",
+        "internalid": "26"
+      },
+      "type": {
+        "name": "AccountsReceivable",
+        "internalid": "AcctRec"
+      }
+    }
+  },
+  {
+    "id": "120",
+    "recordtype": "account",
+    "columns": {
+      "balance": 0,
+      "cashflowratetype": {
+        "name": "Average",
+        "internalid": "AVERAGE"
+      },
+      "externalid": {
+        "name": "1200",
+        "internalid": "1200"
+      },
+      "generalratetype": {
+        "name": "Current",
+        "internalid": "CURRENT"
+      },
+      "internalid": {
+        "name": "120",
+        "internalid": "120"
+      },
+      "isinactive": true,
+      "name": "1200Accounts Receivable",
+      "number": "1200",
+      "subsidiary": {
+        "name": "1101 Inseego Corp : 5601 Ctrack Holdings (Pty) Ltd - US GAAP: 5602 Ctrack Holdings (Pty) Ltd - IFRS : 5603 Ctrack Holdings (Pty) Ltd : 5501 Ctrack International Holdings Ltd : 5502DigiCore International Holdings BV : 5401 Ctrack Pty Ltd",
+        "internalid": "28"
+      },
+      "subsidiarynohierarchy": {
+        "name": "5401Ctrack Pty Ltd",
+        "internalid": "28"
+      },
+      "type": {
+        "name": "AccountsReceivable",
+        "internalid": "AcctRec"
+      }
+    }
+  },
+  {
+    "id": "120",
+    "recordtype": "account",
+    "columns": {
+      "balance": 0,
+      "cashflowratetype": {
+        "name": "Average",
+        "internalid": "AVERAGE"
+      },
+      "externalid": {
+        "name": "1200",
+        "internalid": "1200"
+      },
+      "generalratetype": {
+        "name": "Current",
+        "internalid": "CURRENT"
+      },
+      "internalid": {
+        "name": "120",
+        "internalid": "120"
+      },
+      "isinactive": true,
+      "name": "1200Accounts Receivable",
+      "number": "1200",
+      "subsidiary": {
+        "name": "1101 Inseego Corp : 5601 Ctrack Holdings (Pty) Ltd - US GAAP: 5602 Ctrack Holdings (Pty) Ltd - IFRS : 5603 Ctrack Holdings (Pty) Ltd : 5501 Ctrack International Holdings Ltd : 5502DigiCore International Holdings BV : 5401 Ctrack Pty Ltd : 5402 Ctrack New ZealandLimited",
+        "internalid": "62"
+      },
+      "subsidiarynohierarchy": {
+        "name": "5402 Ctrack New ZealandLimited",
+        "internalid": "62"
+      },
+      "type": {
+        "name": "AccountsReceivable",
+        "internalid": "AcctRec"
+      }
+    }
+  },
+  {
+    "id": "120",
+    "recordtype": "account",
+    "columns": {
+      "balance": 0,
+      "cashflowratetype": {
+        "name": "Average",
+        "internalid": "AVERAGE"
+      },
+      "externalid": {
+        "name": "1200",
+        "internalid": "1200"
+      },
+      "generalratetype": {
+        "name": "Current",
+        "internalid": "CURRENT"
+      },
+      "internalid": {
+        "name": "120",
+        "internalid": "120"
+      },
+      "isinactive": true,
+      "name": "1200Accounts Receivable",
+      "number": "1200",
+      "subsidiary": {
+        "name": "1101 Inseego Corp : 5601 Ctrack Holdings (Pty) Ltd - US GAAP: 5602 Ctrack Holdings (Pty) Ltd - IFRS : 5603 Ctrack Holdings (Pty) Ltd : 5501 Ctrack International Holdings Ltd : 5502DigiCore International Holdings BV : 5301 Ctrack Asia SDN BHD",
+        "internalid": "29"
+      },
+      "subsidiarynohierarchy": {
+        "name": "5301Ctrack Asia SDN BHD",
+        "internalid": "29"
+      },
+      "type": {
+        "name": "AccountsReceivable",
+        "internalid": "AcctRec"
+      }
+    }
+  },
+  {
+    "id": "120",
+    "recordtype": "account",
+    "columns": {
+      "balance": 0,
+      "cashflowratetype": {
+        "name": "Average",
+        "internalid": "AVERAGE"
+      },
+      "externalid": {
+        "name": "1200",
+        "internalid": "1200"
+      },
+      "generalratetype": {
+        "name": "Current",
+        "internalid": "CURRENT"
+      },
+      "internalid": {
+        "name": "120",
+        "internalid": "120"
+      },
+      "isinactive": true,
+      "name": "1200Accounts Receivable",
+      "number": "1200",
+      "subsidiary": {
+        "name": "1101 Inseego Corp : 5601 Ctrack Holdings (Pty) Ltd - US GAAP: 5602 Ctrack Holdings (Pty) Ltd - IFRS : 5603 Ctrack Holdings (Pty) Ltd : 5513 Ctrack FinanceLtd",
+        "internalid": "30"
+      },
+      "subsidiarynohierarchy": {
+        "name": "5513 Ctrack FinanceLtd",
+        "internalid": "30"
+      },
+      "type": {
+        "name": "AccountsReceivable",
+        "internalid": "AcctRec"
+      }
+    }
+  },
+  {
+    "id": "120",
+    "recordtype": "account",
+    "columns": {
+      "balance": 0,
+      "cashflowratetype": {
+        "name": "Average",
+        "internalid": "AVERAGE"
+      },
+      "externalid": {
+        "name": "1200",
+        "internalid": "1200"
+      },
+      "generalratetype": {
+        "name": "Current",
+        "internalid": "CURRENT"
+      },
+      "internalid": {
+        "name": "120",
+        "internalid": "120"
+      },
+      "isinactive": true,
+      "name": "1200Accounts Receivable",
+      "number": "1200",
+      "subsidiary": {
+        "name": "1101 Inseego Corp : 5601 Ctrack Holdings (Pty) Ltd - US GAAP: 5602 Ctrack Holdings (Pty) Ltd - IFRS : 5603 Ctrack Holdings (Pty) Ltd : 5604 Ctrack SA(Pty)",
+        "internalid": "33"
+      },
+      "subsidiarynohierarchy": {
+        "name": "5604 Ctrack SA(Pty)",
+        "internalid": "33"
+      },
+      "type": {
+        "name": "AccountsReceivable",
+        "internalid": "AcctRec"
+      }
+    }
+  },
+  {
+    "id": "120",
+    "recordtype": "account",
+    "columns": {
+      "balance": 0,
+      "cashflowratetype": {
+        "name": "Average",
+        "internalid": "AVERAGE"
+      },
+      "externalid": {
+        "name": "1200",
+        "internalid": "1200"
+      },
+      "generalratetype": {
+        "name": "Current",
+        "internalid": "CURRENT"
+      },
+      "internalid": {
+        "name": "120",
+        "internalid": "120"
+      },
+      "isinactive": true,
+      "name": "1200Accounts Receivable",
+      "number": "1200",
+      "subsidiary": {
+        "name": "1101 Inseego Corp : 5601 Ctrack Holdings (Pty) Ltd - US GAAP: 5602 Ctrack Holdings (Pty) Ltd - IFRS : 5603 Ctrack Holdings (Pty) Ltd : 5605 DigiCore Financial Services (Pty)Ltd",
+        "internalid": "34"
+      },
+      "subsidiarynohierarchy": {
+        "name": "5605 DigiCore Financial Services (Pty)Ltd",
+        "internalid": "34"
+      },
+      "type": {
+        "name": "AccountsReceivable",
+        "internalid": "AcctRec"
+      }
+    }
+  },
+  {
+    "id": "120",
+    "recordtype": "account",
+    "columns": {
+      "balance": 0,
+      "cashflowratetype": {
+        "name": "Average",
+        "internalid": "AVERAGE"
+      },
+      "externalid": {
+        "name": "1200",
+        "internalid": "1200"
+      },
+      "generalratetype": {
+        "name": "Current",
+        "internalid": "CURRENT"
+      },
+      "internalid": {
+        "name": "120",
+        "internalid": "120"
+      },
+      "isinactive": true,
+      "name": "1200Accounts Receivable",
+      "number": "1200",
+      "subsidiary": {
+        "name": "1101 Inseego Corp : 5601 Ctrack Holdings (Pty) Ltd - US GAAP: 5602 Ctrack Holdings (Pty) Ltd - IFRS : 5603 Ctrack Holdings (Pty) Ltd : 5606 Ctrack Insurance Telematics (Pty)Ltd",
+        "internalid": "35"
+      },
+      "subsidiarynohierarchy": {
+        "name": "5606 Ctrack Insurance Telematics (Pty)Ltd",
+        "internalid": "35"
+      },
+      "type": {
+        "name": "AccountsReceivable",
+        "internalid": "AcctRec"
+      }
+    }
+  },
+  {
+    "id": "120",
+    "recordtype": "account",
+    "columns": {
+      "balance": 0,
+      "cashflowratetype": {
+        "name": "Average",
+        "internalid": "AVERAGE"
+      },
+      "externalid": {
+        "name": "1200",
+        "internalid": "1200"
+      },
+      "generalratetype": {
+        "name": "Current",
+        "internalid": "CURRENT"
+      },
+      "internalid": {
+        "name": "120",
+        "internalid": "120"
+      },
+      "isinactive": true,
+      "name": "1200Accounts Receivable",
+      "number": "1200",
+      "subsidiary": {
+        "name": "1101 Inseego Corp : 5601 Ctrack Holdings (Pty) Ltd - US GAAP: 5602 Ctrack Holdings (Pty) Ltd - IFRS : 5603 Ctrack Holdings (Pty) Ltd : 5607 Dedical (Pty)Ltd",
+        "internalid": "36"
+      },
+      "subsidiarynohierarchy": {
+        "name": "5607 Dedical (Pty)Ltd",
+        "internalid": "36"
+      },
+      "type": {
+        "name": "AccountsReceivable",
+        "internalid": "AcctRec"
+      }
+    }
+  },
+  {
+    "id": "120",
+    "recordtype": "account",
+    "columns": {
+      "balance": 0,
+      "cashflowratetype": {
+        "name": "Average",
+        "internalid": "AVERAGE"
+      },
+      "externalid": {
+        "name": "1200",
+        "internalid": "1200"
+      },
+      "generalratetype": {
+        "name": "Current",
+        "internalid": "CURRENT"
+      },
+      "internalid": {
+        "name": "120",
+        "internalid": "120"
+      },
+      "isinactive": true,
+      "name": "1200Accounts Receivable",
+      "number": "1200",
+      "subsidiary": {
+        "name": "1101 Inseego Corp : 5601 Ctrack Holdings (Pty) Ltd - US GAAP: 5602 Ctrack Holdings (Pty) Ltd - IFRS : 5603 Ctrack Holdings (Pty) Ltd : 5608 DigiCore Brands (Pty)Ltd",
+        "internalid": "37"
+      },
+      "subsidiarynohierarchy": {
+        "name": "5608 DigiCore Brands (Pty)Ltd",
+        "internalid": "37"
+      },
+      "type": {
+        "name": "AccountsReceivable",
+        "internalid": "AcctRec"
+      }
+    }
+  },
+  {
+    "id": "120",
+    "recordtype": "account",
+    "columns": {
+      "balance": 0,
+      "cashflowratetype": {
+        "name": "Average",
+        "internalid": "AVERAGE"
+      },
+      "externalid": {
+        "name": "1200",
+        "internalid": "1200"
+      },
+      "generalratetype": {
+        "name": "Current",
+        "internalid": "CURRENT"
+      },
+      "internalid": {
+        "name": "120",
+        "internalid": "120"
+      },
+      "isinactive": true,
+      "name": "1200Accounts Receivable",
+      "number": "1200",
+      "subsidiary": {
+        "name": "1101 Inseego Corp : 5601 Ctrack Holdings (Pty) Ltd - US GAAP: 5602 Ctrack Holdings (Pty) Ltd - IFRS : 5603 Ctrack Holdings (Pty) Ltd : 5609 DigiCore Cellular (Pty)Ltd",
+        "internalid": "38"
+      },
+      "subsidiarynohierarchy": {
+        "name": "5609 DigiCore Cellular (Pty)Ltd",
+        "internalid": "38"
+      },
+      "type": {
+        "name": "AccountsReceivable",
+        "internalid": "AcctRec"
+      }
+    }
+  },
+  {
+    "id": "120",
+    "recordtype": "account",
+    "columns": {
+      "balance": 0,
+      "cashflowratetype": {
+        "name": "Average",
+        "internalid": "AVERAGE"
+      },
+      "externalid": {
+        "name": "1200",
+        "internalid": "1200"
+      },
+      "generalratetype": {
+        "name": "Current",
+        "internalid": "CURRENT"
+      },
+      "internalid": {
+        "name": "120",
+        "internalid": "120"
+      },
+      "isinactive": true,
+      "name": "1200Accounts Receivable",
+      "number": "1200",
+      "subsidiary": {
+        "name": "1101 Inseego Corp : 5601 Ctrack Holdings (Pty) Ltd - US GAAP: 5602 Ctrack Holdings (Pty) Ltd - IFRS : 5603 Ctrack Holdings (Pty) Ltd : 5610 DigiCore International (Pty)Ltd",
+        "internalid": "39"
+      },
+      "subsidiarynohierarchy": {
+        "name": "5610 DigiCore International (Pty)Ltd",
+        "internalid": "39"
+      },
+      "type": {
+        "name": "AccountsReceivable",
+        "internalid": "AcctRec"
+      }
+    }
+  },
+  {
+    "id": "120",
+    "recordtype": "account",
+    "columns": {
+      "balance": 0,
+      "cashflowratetype": {
+        "name": "Average",
+        "internalid": "AVERAGE"
+      },
+      "externalid": {
+        "name": "1200",
+        "internalid": "1200"
+      },
+      "generalratetype": {
+        "name": "Current",
+        "internalid": "CURRENT"
+      },
+      "internalid": {
+        "name": "120",
+        "internalid": "120"
+      },
+      "isinactive": true,
+      "name": "1200Accounts Receivable",
+      "number": "1200",
+      "subsidiary": {
+        "name": "1101 Inseego Corp : 5601 Ctrack Holdings (Pty) Ltd - US GAAP: 5602 Ctrack Holdings (Pty) Ltd - IFRS : 5603 Ctrack Holdings (Pty) Ltd : 5611 DigiCore Investments (Pty)Ltd",
+        "internalid": "40"
+      },
+      "subsidiarynohierarchy": {
+        "name": "5611 DigiCore Investments (Pty)Ltd",
+        "internalid": "40"
+      },
+      "type": {
+        "name": "AccountsReceivable",
+        "internalid": "AcctRec"
+      }
+    }
+  },
+  {
+    "id": "120",
+    "recordtype": "account",
+    "columns": {
+      "balance": 0,
+      "cashflowratetype": {
+        "name": "Average",
+        "internalid": "AVERAGE"
+      },
+      "externalid": {
+        "name": "1200",
+        "internalid": "1200"
+      },
+      "generalratetype": {
+        "name": "Current",
+        "internalid": "CURRENT"
+      },
+      "internalid": {
+        "name": "120",
+        "internalid": "120"
+      },
+      "isinactive": true,
+      "name": "1200Accounts Receivable",
+      "number": "1200",
+      "subsidiary": {
+        "name": "1101 Inseego Corp : 5601 Ctrack Holdings (Pty) Ltd - US GAAP: 5602 Ctrack Holdings (Pty) Ltd - IFRS : 5603 Ctrack Holdings (Pty) Ltd : 5612 DigiCore Technology (Pty)Ltd",
+        "internalid": "41"
+      },
+      "subsidiarynohierarchy": {
+        "name": "5612 DigiCore Technology (Pty)Ltd",
+        "internalid": "41"
+      },
+      "type": {
+        "name": "AccountsReceivable",
+        "internalid": "AcctRec"
+      }
+    }
+  },
+  {
+    "id": "120",
+    "recordtype": "account",
+    "columns": {
+      "balance": 0,
+      "cashflowratetype": {
+        "name": "Average",
+        "internalid": "AVERAGE"
+      },
+      "externalid": {
+        "name": "1200",
+        "internalid": "1200"
+      },
+      "generalratetype": {
+        "name": "Current",
+        "internalid": "CURRENT"
+      },
+      "internalid": {
+        "name": "120",
+        "internalid": "120"
+      },
+      "isinactive": true,
+      "name": "1200Accounts Receivable",
+      "number": "1200",
+      "subsidiary": {
+        "name": "1101 Inseego Corp : 5601 Ctrack Holdings (Pty) Ltd - US GAAP: 5602 Ctrack Holdings (Pty) Ltd - IFRS : 5603 Ctrack Holdings (Pty) Ltd : 5613 DigiCore Electronics (Pty)Ltd",
+        "internalid": "42"
+      },
+      "subsidiarynohierarchy": {
+        "name": "5613 DigiCore Electronics (Pty)Ltd",
+        "internalid": "42"
+      },
+      "type": {
+        "name": "AccountsReceivable",
+        "internalid": "AcctRec"
+      }
+    }
+  },
+  {
+    "id": "120",
+    "recordtype": "account",
+    "columns": {
+      "balance": 0,
+      "cashflowratetype": {
+        "name": "Average",
+        "internalid": "AVERAGE"
+      },
+      "externalid": {
+        "name": "1200",
+        "internalid": "1200"
+      },
+      "generalratetype": {
+        "name": "Current",
+        "internalid": "CURRENT"
+      },
+      "internalid": {
+        "name": "120",
+        "internalid": "120"
+      },
+      "isinactive": true,
+      "name": "1200Accounts Receivable",
+      "number": "1200",
+      "subsidiary": {
+        "name": "1101 Inseego Corp : 5601 Ctrack Holdings (Pty) Ltd - US GAAP: 5602 Ctrack Holdings (Pty) Ltd - IFRS : 5603 Ctrack Holdings (Pty) Ltd : 5613 DigiCore Electronics (Pty) Ltd : 5614DigiCore Properties (Pty) Ltd",
+        "internalid": "43"
+      },
+      "subsidiarynohierarchy": {
+        "name": "5614 DigiCore Properties (Pty)Ltd",
+        "internalid": "43"
+      },
+      "type": {
+        "name": "AccountsReceivable",
+        "internalid": "AcctRec"
+      }
+    }
+  },
+  {
+    "id": "120",
+    "recordtype": "account",
+    "columns": {
+      "balance": 0,
+      "cashflowratetype": {
+        "name": "Average",
+        "internalid": "AVERAGE"
+      },
+      "externalid": {
+        "name": "1200",
+        "internalid": "1200"
+      },
+      "generalratetype": {
+        "name": "Current",
+        "internalid": "CURRENT"
+      },
+      "internalid": {
+        "name": "120",
+        "internalid": "120"
+      },
+      "isinactive": true,
+      "name": "1200Accounts Receivable",
+      "number": "1200",
+      "subsidiary": {
+        "name": "1101 Inseego Corp : 5601 Ctrack Holdings (Pty) Ltd - US GAAP: 5602 Ctrack Holdings (Pty) Ltd - IFRS : 5603 Ctrack Holdings (Pty) Ltd : 5615 Ctrack Fleet Management Solutions (Pty)Ltd",
+        "internalid": "44"
+      },
+      "subsidiarynohierarchy": {
+        "name": "5615 Ctrack Fleet Management Solutions (Pty)Ltd",
+        "internalid": "44"
+      },
+      "type": {
+        "name": "AccountsReceivable",
+        "internalid": "AcctRec"
+      }
+    }
+  },
+  {
+    "id": "120",
+    "recordtype": "account",
+    "columns": {
+      "balance": 0,
+      "cashflowratetype": {
+        "name": "Average",
+        "internalid": "AVERAGE"
+      },
+      "externalid": {
+        "name": "1200",
+        "internalid": "1200"
+      },
+      "generalratetype": {
+        "name": "Current",
+        "internalid": "CURRENT"
+      },
+      "internalid": {
+        "name": "120",
+        "internalid": "120"
+      },
+      "isinactive": true,
+      "name": "1200Accounts Receivable",
+      "number": "1200",
+      "subsidiary": {
+        "name": "1101 Inseego Corp : 5601 Ctrack Holdings (Pty) Ltd - US GAAP: 5602 Ctrack Holdings (Pty) Ltd - IFRS : 5603 Ctrack Holdings (Pty) Ltd : 5615 Ctrack Fleet Management Solutions (Pty)Ltd : 5616 Fleet Connect (Pty) Ltd",
+        "internalid": "57"
+      },
+      "subsidiarynohierarchy": {
+        "name": "5616 Fleet Connect (Pty)Ltd",
+        "internalid": "57"
+      },
+      "type": {
+        "name": "AccountsReceivable",
+        "internalid": "AcctRec"
+      }
+    }
+  },
+  {
+    "id": "120",
+    "recordtype": "account",
+    "columns": {
+      "balance": 0,
+      "cashflowratetype": {
+        "name": "Average",
+        "internalid": "AVERAGE"
+      },
+      "externalid": {
+        "name": "1200",
+        "internalid": "1200"
+      },
+      "generalratetype": {
+        "name": "Current",
+        "internalid": "CURRENT"
+      },
+      "internalid": {
+        "name": "120",
+        "internalid": "120"
+      },
+      "isinactive": true,
+      "name": "1200Accounts Receivable",
+      "number": "1200",
+      "subsidiary": {
+        "name": "1101 Inseego Corp : 5601 Ctrack Holdings (Pty) Ltd - US GAAP: 5602 Ctrack Holdings (Pty) Ltd - IFRS : 5603 Ctrack Holdings (Pty) Ltd : 5615 Ctrack Fleet Management Solutions (Pty)Ltd : 5617 Ctrack Mzansi (Pty) Ltd",
+        "internalid": "59"
+      },
+      "subsidiarynohierarchy": {
+        "name": "5617 Ctrack Mzansi (Pty)Ltd",
+        "internalid": "59"
+      },
+      "type": {
+        "name": "AccountsReceivable",
+        "internalid": "AcctRec"
+      }
+    }
+  },
+  {
+    "id": "120",
+    "recordtype": "account",
+    "columns": {
+      "balance": 0,
+      "cashflowratetype": {
+        "name": "Average",
+        "internalid": "AVERAGE"
+      },
+      "externalid": {
+        "name": "1200",
+        "internalid": "1200"
+      },
+      "generalratetype": {
+        "name": "Current",
+        "internalid": "CURRENT"
+      },
+      "internalid": {
+        "name": "120",
+        "internalid": "120"
+      },
+      "isinactive": true,
+      "name": "1200Accounts Receivable",
+      "number": "1200",
+      "subsidiary": {
+        "name": "1101 Inseego Corp : 5601 Ctrack Holdings (Pty) Ltd - US GAAP: 5602 Ctrack Holdings (Pty) Ltd - IFRS : 5603 Ctrack Holdings (Pty) Ltd : 5680 ELIM Ctrack Holdings (Pty)Ltd",
+        "internalid": "56"
+      },
+      "subsidiarynohierarchy": {
+        "name": "5680 ELIM Ctrack Holdings (Pty)Ltd",
+        "internalid": "56"
+      },
+      "type": {
+        "name": "AccountsReceivable",
+        "internalid": "AcctRec"
+      }
+    }
+  },
+  {
+    "id": "120",
+    "recordtype": "account",
+    "columns": {
+      "balance": 0,
+      "cashflowratetype": {
+        "name": "Average",
+        "internalid": "AVERAGE"
+      },
+      "externalid": {
+        "name": "1200",
+        "internalid": "1200"
+      },
+      "generalratetype": {
+        "name": "Current",
+        "internalid": "CURRENT"
+      },
+      "internalid": {
+        "name": "120",
+        "internalid": "120"
+      },
+      "isinactive": true,
+      "name": "1200Accounts Receivable",
+      "number": "1200",
+      "subsidiary": {
+        "name": "1101 Inseego Corp : 5601 Ctrack Holdings (Pty) Ltd - US GAAP: 5602 Ctrack Holdings (Pty) Ltd - IFRS : 5603 Ctrack Holdings (Pty) Ltd : 5614 DigiCore Properties (Pty)Ltd",
+        "internalid": "64"
+      },
+      "subsidiarynohierarchy": {
+        "name": "5614 DigiCore Properties (Pty)Ltd",
+        "internalid": "64"
+      },
+      "type": {
+        "name": "AccountsReceivable",
+        "internalid": "AcctRec"
+      }
+    }
+  },
+  {
+    "id": "120",
+    "recordtype": "account",
+    "columns": {
+      "balance": 0,
+      "cashflowratetype": {
+        "name": "Average",
+        "internalid": "AVERAGE"
+      },
+      "externalid": {
+        "name": "1200",
+        "internalid": "1200"
+      },
+      "generalratetype": {
+        "name": "Current",
+        "internalid": "CURRENT"
+      },
+      "internalid": {
+        "name": "120",
+        "internalid": "120"
+      },
+      "isinactive": true,
+      "name": "1200Accounts Receivable",
+      "number": "1200",
+      "subsidiary": {
+        "name": "1101 Inseego Corp : 5601 Ctrack Holdings (Pty) Ltd - US GAAP: 5602 Ctrack Holdings (Pty) Ltd - IFRS : 5603 Ctrack Holdings (Pty) Ltd : 5618 Vonaka Private EquityFund",
+        "internalid": "66"
+      },
+      "subsidiarynohierarchy": {
+        "name": "5618 Vonaka Private EquityFund",
+        "internalid": "66"
+      },
+      "type": {
+        "name": "AccountsReceivable",
+        "internalid": "AcctRec"
+      }
+    }
+  },
+  {
+    "id": "120",
+    "recordtype": "account",
+    "columns": {
+      "balance": 0,
+      "cashflowratetype": {
+        "name": "Average",
+        "internalid": "AVERAGE"
+      },
+      "externalid": {
+        "name": "1200",
+        "internalid": "1200"
+      },
+      "generalratetype": {
+        "name": "Current",
+        "internalid": "CURRENT"
+      },
+      "internalid": {
+        "name": "120",
+        "internalid": "120"
+      },
+      "isinactive": true,
+      "name": "1200Accounts Receivable",
+      "number": "1200",
+      "subsidiary": {
+        "name": "1101 Inseego Corp : 5601 Ctrack Holdings (Pty) Ltd - US GAAP: 5602 Ctrack Holdings (Pty) Ltd - IFRS : 5603 Ctrack Holdings (Pty) Ltd : DigiCoreInternational",
+        "internalid": "67"
+      },
+      "subsidiarynohierarchy": {
+        "name": "DigiCoreInternational",
+        "internalid": "67"
+      },
+      "type": {
+        "name": "AccountsReceivable",
+        "internalid": "AcctRec"
+      }
+    }
+  },
+  {
+    "id": "120",
+    "recordtype": "account",
+    "columns": {
+      "balance": 0,
+      "cashflowratetype": {
+        "name": "Average",
+        "internalid": "AVERAGE"
+      },
+      "externalid": {
+        "name": "1200",
+        "internalid": "1200"
+      },
+      "generalratetype": {
+        "name": "Current",
+        "internalid": "CURRENT"
+      },
+      "internalid": {
+        "name": "120",
+        "internalid": "120"
+      },
+      "isinactive": true,
+      "name": "1200Accounts Receivable",
+      "number": "1200",
+      "subsidiary": {
+        "name": "1101 Inseego Corp : 2101 Novatel Wireless,Inc.",
+        "internalid": "2"
+      },
+      "subsidiarynohierarchy": {
+        "name": "2101 Novatel Wireless,Inc.",
+        "internalid": "2"
+      },
+      "type": {
+        "name": "Accounts Receivable",
+        "internalid": "AcctRec"
+      }
+    }
+  }
+]
