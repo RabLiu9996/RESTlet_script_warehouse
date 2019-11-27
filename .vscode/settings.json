@@ -1,0 +1,5 @@
+{
+    "netSuiteUpload.restlet": "https://5236706-sb1.restlets.api.netsuite.com/app/site/hosting/restlet.nl?script=1357&deploy=1",
+    // Authentication header
+    "netSuiteUpload.authentication": "NLAuth nlauth_account=5236706_SB1, nlauth_email=Paul.Duong@inseego.com, nlauth_signature=Oracle123456789",
+}
