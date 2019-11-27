@@ -10,34 +10,41 @@
 
 define(['N/search'],
 function (search) {
-    function GetCustNameByAccountNumber(data) {
-        var accountNumber = data.accountNumber;
+    function GetCustomerInfo(data) {
+        var tranid = data.salesOrderNumber;
 
         var filters = [];
         filters.push(
              search.createFilter({
-                 name: 'accountnumber',
+                 name: 'tranid',
                  operator: search.Operator.IS,
-                 values: accountNumber
+                 values: tranid
              })
         );
 
-        var res = search.create({
-            type: search.Type.CUSTOMER,
+        var res = [];
+        search.create({
+            type: search.Type.SALES_ORDER,
             filters: filters,
             columns: [
                 {
-                    name: 'companyname'
+                    name: 'entity'
                 }
             ],
-          	filters: filters
-        }).run().getRange(0,100);
-      
-        return JSON.stringify(res);
+        }).run().each(function(record){
+            res.push({
+                "Party Name": record.getText({
+                    name: 'entity'
+                }),
+                "Attribute1": "???"
+            });
+        });
+
+        return res;
     }
 
 	function doGet(data){
-        return GetCustNameByAccountNumber(data);
+        return GetCustomerInfo(data);
     }
 
     return {

@@ -15,25 +15,24 @@ function (search) {
 
         var filters = [];
         filters.push(
-            search.createFilter({
-                name: 'accountnumber',
-                operator: search.Operator.IS,
-                values: accountNumber
-            })
+             search.createFilter({
+                 name: 'accountnumber',
+                 operator: search.Operator.IS,
+                 values: accountNumber
+             })
         );
 
-        var salesOrderSearch = search.create({
+        var res = search.create({
             type: search.Type.CUSTOMER,
             filters: filters,
             columns: [
                 {
                     name: 'companyname'
                 }
-            ]
-        });
-        
-        var res = salesOrderSearch.run().getRange(0,100);
-        
+            ],
+          	filters: filters
+        }).run().getRange(0,100);
+      
         return JSON.stringify(res);
     }
 
