@@ -4,18 +4,26 @@
  *
  * @author pduong
  * @NApiVersion 2.0
- * @NScriptType Restlet
  * @NModuleScope Public
  */
 
+ /**
+  * Story 2564. Get currency name for an given array of sales order number.
+  */
+
 define(['N/search'],
 function (search) {
-  function GetShipDocsForOrderNumbers(data) {
-    var tranid = data.sSONumber.split(',');
+  function execute(data) {
+
+    if(!data.sSONumber || data.sSONumber.length === 0) {
+      return {
+          error:"sSONumber parameter is required and can't be empty."
+      }
+    }
 
     var columns = [];
     columns[0] = search.createColumn({
-        name: 'currency'
+        name: 'currency',
     });
 
     var filters = [];
@@ -23,7 +31,7 @@ function (search) {
         search.createFilter({
             name: 'tranid',
             operator: search.Operator.ANYOF,
-            values: tranid
+            values: data.sSONumber
         })
     );
 
@@ -34,6 +42,7 @@ function (search) {
     });
 
     var res = '';
+
     salesOrderSearch.run().each(function(record) {
       var currencyName = record.getText({
         name: 'currency'
@@ -43,14 +52,12 @@ function (search) {
       }
     });
 
+    var res = { "Currency code": res };
+
     return res;
-  }
-  
-  function doGet(data){
-    return GetShipDocsForOrderNumbers(data);
   }
 
   return {
-    'get': doGet
-  };
+    execute: execute
+  }
 });
