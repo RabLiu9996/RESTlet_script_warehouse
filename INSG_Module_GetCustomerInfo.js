@@ -7,6 +7,11 @@
  * @NModuleScope Public
  */
 
+/**
+ * Story 2882. Get customer company name and warranty term for a given sales order numbers.
+ *
+ */
+
 define(['N/search'],
 function (search) {
     function execute(data) {

@@ -451,7 +451,7 @@
                 "costestimate": "0.00",
                 "costestimaterate": "0.00",
                 "costestimatetype": "AVGCOST",
-                "costestimatetypelist":"AVGCOSTCUSTOMITEMDEFINEDLASTPURCHPRICEPREFVENDORRATEPURCHORDERRATEPURCHPRICE",
+                "costestimatetypelist":"AVGCOSTCUSTOMITEMDEFINEDLASTPURCHPRICEPREFVENDORRATEPURCHORDERRATEPURCHPRICE",
                 "createdpo": "32668",
                 "createpo": "DropShip",
                 "createwo": "F",
