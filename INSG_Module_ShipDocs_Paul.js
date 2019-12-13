@@ -50,6 +50,8 @@ function (search) {
       if (currencyName > res) {
         res = currencyName;
       }
+      
+      return true;
     });
 
     var res = { "Currency code": res };

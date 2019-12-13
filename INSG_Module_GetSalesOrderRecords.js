@@ -8,7 +8,7 @@
  */
 
  /**
- * Story 2528. Get sales order records from NetSuite.
+ * Story 2538. Get sales order records from NetSuite.
  *
  */
 
@@ -17,11 +17,13 @@ function (search) {
     function execute(data) {
 
         var filters = [];
-        filters[0] = search.createFilter({
-            name: 'mainline',
-            operator: search.Operator.IS,
-            values: true
-        });
+        filters.push(
+            search.createFilter({
+                name: 'mainline',
+                operator: search.Operator.IS,
+                values: true
+            })
+        );
 
         var columns = [];
         columns[0] = search.createColumn({

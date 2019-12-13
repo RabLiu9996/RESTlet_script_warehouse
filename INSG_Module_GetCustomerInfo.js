@@ -17,7 +17,20 @@ function (search) {
     function execute(data) {
         var tranid = data.salesOrderNumber;
 
+        if (!tranid) {
+            return {
+                error: "Parameter salesOrderNumber is required!"
+            }
+        }
+
         var filters = [];
+        filters.push(
+            search.createFilter({
+                name: 'mainline',
+                operator: search.Operator.IS,
+                values: true
+            })
+        );
         filters.push(
              search.createFilter({
                  name: 'tranid',
@@ -28,20 +41,22 @@ function (search) {
 
         var res = [];
         search.create({
-            type: search.Type.SALES_ORDER,
+            type: 'salesorder',
             filters: filters,
             columns: [
                 {
-                    name: 'entity'
+                    name: 'entityid',
+                    join: 'customer'
                 }
             ],
         }).run().each(function(record){
             res.push({
-                "Party Name": record.getText({
-                    name: 'entity'
+                "Party Name": record.getValue({
+                    name: 'entityid', join: 'customer'
                 }),
                 "Attribute1": "???"
             });
+            return true;
         });
 
         return res;

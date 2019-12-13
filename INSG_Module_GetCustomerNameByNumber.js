@@ -17,7 +17,20 @@ function (search) {
     function execute(data) {
         var accountNumber = data.accountNumber;
 
+        if (!accountNumber) {
+            return {
+                error: "Parameter accountNumber is required!"
+            }
+        }
+
         var filters = [];
+        filters.push(
+            search.createFilter({
+                name: 'mainline',
+                operator: search.Operator.IS,
+                values: true
+            })
+        );
         filters.push(
              search.createFilter({
                  name: 'accountnumber',
@@ -32,16 +45,17 @@ function (search) {
             filters: filters,
             columns: [
                 {
-                    name: 'companyname'
+                    name: 'entityid'
                 }
             ],
           	filters: filters
         }).run().each(function(record) {
             res.push({
                 "Customer Name": record.getValue({
-                    name: 'companyname'
+                    name: 'entityid'
                 })
             });
+            return true;
         });
 
         return res;

@@ -34,7 +34,6 @@ function (search) {
         );
 
         var res = [];
-        
         search.create({
             type: search.Type.SALES_ORDER,
             filters: filters,

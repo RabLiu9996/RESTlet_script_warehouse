@@ -77,6 +77,32 @@ define(['N/search'],
                     },
                     {
                         name: 'type'
+                    },
+                    {
+                        name: "shipcarrier"
+                    },
+                    {
+                        name: 'shipphone'
+                    },
+                    {
+                        name: 'terms'
+                    },
+                    {
+                        name: 'shipdate'
+                    },
+                    {
+                        name: 'startdate'
+                    },
+                    {
+                        name: 'shipmethod'
+                    }, {
+                        name: 'createdby'
+                    },
+                    {
+                        name: 'custtype'
+                    },
+                    {
+                        name: 'creditamount'
                     }
 
                 ]
@@ -144,6 +170,39 @@ define(['N/search'],
                         }, {
                             "Order Type": record.getValue({
                                 name: 'type'
+                            })
+                        }, {
+                            "Ship Method": record.getValue({
+                                name: 'shipcarrier'
+                            })
+                        }, {
+                            "Ship Contact": record.getText({
+                                name: 'shipphone'
+                            })
+
+                        }, {
+                            "Freight Terms": record.getText({
+                                name: 'terms'
+                            })
+                        }, {
+                            "Ship date": record.getValue({
+                                name: 'shipdate'
+                            })
+                        }, {
+                            "Start date": record.getValue({
+                                name: 'startdate'
+                            })
+                        }, {
+                            "Ship method": record.getText({
+                                name: 'shipmethod'
+                            })
+                        }, {
+                            "Created By": record.getText({
+                                name: 'createdby'
+                            })
+                        }, {
+                            "Cust type": record.getText({
+                                name: 'custtype'
                             })
                         }
 

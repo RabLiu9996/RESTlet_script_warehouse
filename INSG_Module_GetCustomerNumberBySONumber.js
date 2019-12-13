@@ -16,7 +16,20 @@ function (search) {
     function execute(data) {
         var tranid = data.salesOrderNumber;
 
+        if (!tranid) {
+            return {
+                error: "Parameter salesOrderNumber is required!"
+            }
+        }
+
         var filters = [];
+        filters.push(
+            search.createFilter({
+                name: 'mainline',
+                operator: search.Operator.IS,
+                values: true
+            })
+        );
         filters.push(
              search.createFilter({
                  name: 'tranid',
@@ -25,21 +38,25 @@ function (search) {
              })
         );
 
-        var res;
+        var res = [];
         search.create({
             type: search.Type.SALES_ORDER,
             filters: filters,
             columns: [
                 {
-                    name: 'cccustomercode'
+                    name: 'accountnumber',
+                    join: 'customer'
                 }
             ],
         }).run().each(function(record){
-            res = {
+            res.push({
                 "Customer Number": record.getValue({
-                    name: 'cccustomercode'
+                    name: 'accountnumber',
+                    join: 'customer'
                 })
-            }
+            });
+
+            return true;
         });
 
         return res;
