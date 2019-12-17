@@ -169,8 +169,44 @@ and PH.SEGMENT1 = '&sPO'
 and PL.LINE_NUM = '&sPOLIne'
 and PT.LINE_TYPE = 'Rework';
 
+SELECT 
+flow_status_code, 
+cust_po_number, 
+customer_name, 
+SKU, 
+ordered_item,
+product, 
+schedule_ship_date, 
+ordered_quantity, 
+hold_status, 
+header_hold, 
+line_hold
+from xxnvtl_sales_order_data
+WHERE ORDER_NUMBER = '&orderNumber'
+AND LINE_NUMBER = '&lineNumber';
+
 --Queries above were completed or partially completed
 -----------------------------------------------------------------------------
+
+select 
+l.shipment_number, 
+l.ordered_quantity, 
+l.freight_carrier_code, 
+l.schedule_ship_date, 
+l.flow_status_code, 
+l.subinventory, 
+l.cust_po_number, 
+msi.segment2 SKU 
+from 
+XXNVTL_NFS_SO_HEADER h, 
+OE_ORDER_LINES_ALL l, 
+MTL_SYSTEM_ITEMS msi 
+where l.HEADER_ID = h.SO_HEADER_ID 
+and h.SO_NUMBER = " & tbNVTLSONumber.Text 
+and l.LINE_NUMBER = " & tbNVTLSOLineItem.Text 
+and l.inventory_item_id = msi.inventory_item_id
+and l.org_id = msi.organization_id
+order by l.shipment_number
 
 SELECT DISTINCT FDST.SHORT_TEXT, OOH.ORDER_NUMBER, FDCT.USER_NAME
 FROM FND_DOCUMENTS_SHORT_TEXT FDST,
@@ -201,4 +237,4 @@ so_cust_po_number,
  from XXNVTL_MASTER_SCHEDULE2_V 
  Where (shipment_closed_code = 'OPEN' 
  and po_ship_to <> 'Unallocated') 
- and (sub_inventory in ('&InventoryLocation') or po_ship_to in ('InventoryLocation'))
+ and (sub_inventory in ('&InventoryLocation') or po_ship_to in ('InventoryLocation'));
